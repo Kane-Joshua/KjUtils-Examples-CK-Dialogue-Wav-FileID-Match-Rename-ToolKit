@@ -1,0 +1,7 @@
+fuzzywuzzy==0.18.0
+matplotlib==3.10.9
+nltk==3.5
+numpy==2.4.6
+pandas==3.0.3
+pydub==0.25.1
+tqdm==4.67.1
