@@ -3,7 +3,7 @@ Simple Python Code I use to semi-automatically process the dialogue ID batch mat
 
 ###### before all...
 >Now first things first, fuck you dumbass bot this jap mesubuta moderator `AltheaR`. She, with her own efforts and her supporters, bring the whole Fallout 4 Nexus community into destruction. and **NOBODY** should have forgot this. 
-- this kind of person should go baby sitting her barstard of her gigolo and her scum mother. So notorious! Stinky!
+- this kind of person should go baby sitting her barstard the one of gigolo and her scum mother. So notorious! Stinky!
 
 ---
 
